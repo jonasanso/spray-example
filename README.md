@@ -17,7 +17,7 @@ Just run
 sbt assembly
 ```
 
-Size of the JAR 36MB
+Size of the JAR 15MB
 
 Run your server
 ```
